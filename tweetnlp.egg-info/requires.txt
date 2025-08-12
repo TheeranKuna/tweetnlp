@@ -1,0 +1,10 @@
+ray[tune]
+ray
+numpy
+urlextract
+transformers
+huggingface-hub
+evaluate
+sentence_transformers
+torch
+datasets
